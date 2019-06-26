@@ -17,6 +17,8 @@ public class App {
 
 		System.out.println("Hello Masterclass");
 		
+		System.out.println("5+5 = 10");
+		
 	}
 
 }
